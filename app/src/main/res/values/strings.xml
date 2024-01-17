@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">e_Serve</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_map_key">AIzaSyAIW7CW47AsZH08Yma-6_u2mlJrtkmObdk</string>
+</resources>

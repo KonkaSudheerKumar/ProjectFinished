@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175583819639",
+    "project_id": "e-serve-2630a",
+    "storage_bucket": "e-serve-2630a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175583819639:android:c042866b538dcc50569372",
+        "android_client_info": {
+          "package_name": "com.example.e_serve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsOtQ3sYENsP7FfzFqQqRfvbbZUWR446c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
